@@ -1,10 +1,6 @@
-### Hi there 👋 My name is Anigbogu Chinedu, a skilled developer with more than five years of expertise in web development and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve. A seasoned team player with a problem-solving and solution-delivery mindset. 
+### Hi there 👋 My name is Anigbogu Chinedu, a skilled Fullstack developer with more than five years of expertise in web development and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve. A seasoned team player with a problem-solving and solution-delivery mindset. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Radioboxgit&label=PROFILE VIEWS&color=blueviolet&style=flat" alt="Radioboxgit" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radioboxgit&show_icons=true&locale=en&layout=compact" alt="Radioboxgit" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Radioboxgit&show_icons=true&theme=radical" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Radioboxgit&" alt="Radioboxgit" /></p>
 
 
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
@@ -33,7 +29,9 @@
           
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radioboxgit&show_icons=true&locale=en&layout=compact" alt="Radioboxgit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Radioboxgit&show_icons=true&theme=radical" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Radioboxgit&" alt="Radioboxgit" /></p>
 
 
 
