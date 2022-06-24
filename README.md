@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Anigbogu Chinedu, a skilled developer with more than five years of expertise in web development and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve. A seasoned team player with a problem-solving and solution-delivery mindset. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Radioboxgit&label=Profile%20views&color=blue-violet&style=flat" alt="Radioboxgit" /> </p>
+
 <!--
 **Radioboxgit/Radioboxgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
