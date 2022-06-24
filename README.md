@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Hello!, My name is **Anigbogu Chinedu**, a skilled developer with more than five years of expertise in web development 
+and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve.A seasoned team player with a problem-solving and solution-delivery mindset. 
 
 <!--
 **Radioboxgit/Radioboxgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
