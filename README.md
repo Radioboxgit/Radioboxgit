@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Radioboxgit&label=PROFILE VIEWS&color=blueviolet&style=flat" alt="Radioboxgit" /> </p>
 
 ### <p> :mailbox: REACH ME OUT!</p>
-![Twitter URL](https://img.shields.io/twitter/url?color=1ca0f1&label=%40AnigboguNedu&logo=twitter&logoColor=white&style=social&url=https%3A%2F%2Fshields.io%2F%40AnigboguNedu)                                              
+<a href="twitter.com/AnigboguNedu"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AnigboguNedu?color=black&label=%40AnigboguNedu&logo=twitter&style=social"> </a>
                                                                                                
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
