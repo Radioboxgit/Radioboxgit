@@ -45,6 +45,13 @@
 </p>
           
 
+🌱 I’m currently learning:
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" >
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" >
+ </p>
+
+
 
 <p><img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radioboxgit&show_icons=true&locale=en&count_private=true&layout=compact" alt="Radioboxgit" /></p>
 <!-- <p><img width="47%"align="left" src="https://github-readme-stats.vercel.app/api?username=Radioboxgit&show_icons=true&theme=radical" /> </p> -->
