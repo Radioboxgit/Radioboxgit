@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Radioboxgit&label=PROFILE VIEWS&color=blueviolet&style=flat" alt="Radioboxgit" /> </p>
 
 ### <p> :mailbox: REACH ME OUT!</p>
+<a target="_blank" href="mailto:chinedulaw62@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a target="_blank" href="https://radio-villa.vercel.app"> <img alt="Gmail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a>
 <a target="_blank" href="https://twitter.com/AnigboguNedu"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AnigboguNedu?color=black&label=%40AnigboguNedu&logo=twitter&style=social"> </a>
+
 
                                                                                                
 #### Top Technologies
@@ -44,7 +47,7 @@
 
 
 <p><img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radioboxgit&show_icons=true&locale=en&count_private=true&layout=compact" alt="Radioboxgit" /></p>
-<p><img width="47%"align="left" src="https://github-readme-stats.vercel.app/api?username=Radioboxgit&show_icons=true&theme=radical" /> </p>
+<!-- <p><img width="47%"align="left" src="https://github-readme-stats.vercel.app/api?username=Radioboxgit&show_icons=true&theme=radical" /> </p> -->
 <p><img width="47%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Radioboxgit&" alt="Radioboxgit" /></p>
 
 
