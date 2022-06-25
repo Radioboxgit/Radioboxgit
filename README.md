@@ -45,6 +45,10 @@
 </p>
           
 
+<h2>:briefcase: PROJECTS :scroll: </h2>
+##RadioBox
+    <p>A full-stack web application powered by Vue.js(Nuxt.js) and Supabase (backend as a service) for user authentication and allows users to stream different internet radio stations from across the world. </p>
+
 🌱 I’m currently learning:
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" >
