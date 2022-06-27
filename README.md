@@ -46,7 +46,7 @@
           
 
 <h2>:briefcase: PROJECTS :scroll: </h2>
-<h4>RadioVilla</h4>
+<h4>RadioVilla:</h4>
 <p align="left">
 <img width="350px", height="150px" src="https://github.com/Radioboxgit/Radioboxgit/blob/main/villa.png" />
 <img width="350px", height="150px" src="https://github.com/Radioboxgit/Radioboxgit/blob/main/villa9.png" />
@@ -55,9 +55,11 @@
 </p>
 <p>A full-stack web application powered by Vue.js(Nuxt.js) and Supabase (backend as a service) for user authentication and allows users to stream different internet radio stations from across the world. The application also features a space blog and a job board section. <a target="_blank" href="https://radio-villa.vercel.app" >Visit RadioBox </a>
 </p> 
-<h4>NowPlaying</h4>
+<h4>NowPlaying:</h4>
+<img width="700px", height="300px" src="https://github.com/Radioboxgit/Radioboxgit/blob/main/nowplaying.png" />
 <p><b>nowplaying</b>, a FastAPI app that Fetches Icecast song title and artist name from internet radio URL streams. The app currently powers part of RadioVila Site.  <a target="_blank" href="https://nowplaying.deta.dev" >Visit NowPlaying </a> </p>
-<h4>Vue REsume</h4>
+<h4>Vue REsume:</h4>
+<img width="500px", height="450px" src="https://github.com/Radioboxgit/Radioboxgit/blob/main/vue-resume.png" />
 <p>Vue-Resume, a Vue3 JS powered online resume template generator.<a target="_blank" href="https://anigbogu-resume.vercel.app" >Visit Vue-REsume </a> </p>
 
 
