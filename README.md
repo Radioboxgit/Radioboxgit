@@ -1,6 +1,6 @@
 ## Hi I'm Chinedu. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="50px" width="50px" alt="hi"> You are most Welcome.
 
-### Hi :thumbsup: there I am Anigbogu Chinedu, a skilled Fullstack developer with more than five years of expertise in web development and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve. A seasoned team player with a problem-solving and solution-delivery mindset. 
+### Hi :thumbsup: there I am Anigbogu Chinedu, a skilled Fullstack Web Developer with more than five years of expertise in web development and a background in data analysis, constantly looking for new ways to put my abilities to use, learn, and improve. A seasoned team player with a problem-solving and solution-delivery mindset. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Radioboxgit&label=PROFILE VIEWS&color=blueviolet&style=flat" alt="Radioboxgit" /> </p>
 
